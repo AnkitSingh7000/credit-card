@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+.box1{
+    overflow: hidden;
+    margin-left: 0%;
+    top: 0%;
+    background-attachment: fixed;
+    background-color: #E5E5CB;
+    width: 100%;
+    height: 100%;  
+}
+.box1>h2{
+    font-size: 30px;
+    position: absolute;
+    top: 2%;
+    left: 2%;
+}
+pre{
+    text-align: center;
+    position: absolute;
+    text-decoration: none;
+    word-spacing: 10px;
+    font: 600 20px sans-serif;
+    margin-left: 13%;
+    margin-top: 1%; 
+}
+.s11{
+    color: #d0bf50;
+    font-size: 45px;
+    position: absolute;
+    margin-top: 12%;
+    margin-left: 5%;
+}
+b{
+    font-size: 45px;
+    position: absolute;
+    margin-top: 14%;
+    margin-left: 18%;
+}
+
+
+.box1>input{
+    height: 5%;
+    position: absolute;
+    margin-top: 21%;
+    width: 19%;
+    margin-left: 17%;
+}
+input::placeholder{
+    text-align: center;
+}
+.b1{
+    background-color: #000000;
+    color: aliceblue;
+    height: 5%;
+    position: absolute;
+    margin-top: 21%;
+    width: 8%;
+    margin-left: 35%;
+}
+.box12{
+    position: absolute;
+    width: 30%;
+    height: 20%;
+    background-color: #9DB2BF;
+    margin-top: 30%;
+    
+}
+.box12{
+    font:300 20px 'Rubik', sans-serif;
+    text-align: center;
+    padding-top: 3%;
+}
+.box21>img{
+    width: 10%;
+    margin-left: 30%;
+    top: 76%;
+    position: absolute;
+   
+}
+
+.img22{
+    box-shadow: 0 0 solid 20px ;
+    position: absolute;
+    width: 38%;
+    margin-top: 18.6%;
+    margin-left: 40%;
+
+}
+
+.b2{
+    text-align: center;
+    position: absolute;
+    margin-top: 1%;
+    right: 6%;
+    width: 4%;
+    background-color: transparent;
+    border-radius: 10px;
+    border: 1px solid rgb(0, 0, 0);
+}
+.b3{
+    text-align: center;
+    position: absolute;
+    margin-top: 1%;
+    right: 1%;
+    width: 4%;
+    background-color: transparent;
+    border-radius: 10px;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+/*
+.a1{
+    position: absolute;
+    text-decoration: none;
+    color: rgb(97, 97, 97);
+    font: 400 20px sans-serif;
+    margin-left: 65%;
+    margin-top: 1%;
+}
+.a2{
+    position: absolute;
+    text-decoration: none;
+    color: rgb(97, 97, 97);
+    font: 400 20px sans-serif;
+    margin-left: 75%;
+    margin-top: 1%;
+}
+.a3{
+    position: absolute;
+    text-decoration: none;
+    color: rgb(97, 97, 97);
+    font: 400 20px sans-serif;
+    margin-left: 84%;
+    margin-top: 1%;
+}
+.a4{
+    position: absolute;
+    text-decoration: none;
+    color: rgb(97, 97, 97);
+    font: 400 20px sans-serif;
+    margin-left: 92%;
+    margin-top: 1%;
+}*/
+.box2{
+    margin-top: -3%;
+    margin-left: 60%;
+    background-attachment: fixed;
+    background-color: #9DB2BF;
+    width: 50%;
+    height: 110%;
+}
+.box2>h1{
+    
+    position: absolute;
+    font: 400 35px sans-serif;
+    margin-top: 5%;
+    margin-left: 3%;
+
+}
+.box2>img{
+    margin-left: 10%;
+    margin-top: 30%;
+    width: 70%;
+}
+
+#myVideo {
+    
+    margin-top: 1%;
+    margin-left: 10%;
+    width: 40%;
+    height: 45%;
+}
+.box3{
+    background: #D5CEA3;
+    width: 100%;
+    height: 100%;
+
+}
+.box3>img{ 
+    box-shadow: 5px;
+    border-radius: 5px;
+    margin-left: 60%;
+    margin-top: 5%;
+    width: 30%;
+}
+.h2{
+    text-align: center;
+    color: rgb(85, 55, 42);
+    position: absolute;
+    font: 400 40px sans-serif;
+    margin-top: 10%;
+    margin-left: 11%;
+
+}
+.h3{
+    text-align: center;
+    
+    color: rgb(85, 55, 42);
+    position: absolute;
+    font: 400 40px sans-serif;
+    margin-top: -14%;
+    margin-left: 70%;
+
+}
+.myVideo{
+    width: 75%;
+    height: 75%;
+    background: red;
+    position: absolute;
+    z-index: 99999;
+}
+  
