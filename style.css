@@ -117,39 +117,6 @@ input::placeholder{
     border: 1px solid rgb(0, 0, 0);
 }
 
-/*
-.a1{
-    position: absolute;
-    text-decoration: none;
-    color: rgb(97, 97, 97);
-    font: 400 20px sans-serif;
-    margin-left: 65%;
-    margin-top: 1%;
-}
-.a2{
-    position: absolute;
-    text-decoration: none;
-    color: rgb(97, 97, 97);
-    font: 400 20px sans-serif;
-    margin-left: 75%;
-    margin-top: 1%;
-}
-.a3{
-    position: absolute;
-    text-decoration: none;
-    color: rgb(97, 97, 97);
-    font: 400 20px sans-serif;
-    margin-left: 84%;
-    margin-top: 1%;
-}
-.a4{
-    position: absolute;
-    text-decoration: none;
-    color: rgb(97, 97, 97);
-    font: 400 20px sans-serif;
-    margin-left: 92%;
-    margin-top: 1%;
-}*/
 .box2{
     margin-top: -3%;
     margin-left: 60%;
